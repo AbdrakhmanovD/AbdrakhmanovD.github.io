@@ -1,1 +1,1 @@
-<p> Первый сайт за 3 дня </p>
+<p> my first site in 3 days </p>
